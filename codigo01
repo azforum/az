@@ -1,0 +1,2159 @@
+<div class="col-md-9 col-sm-9 col-xs-12">
+
+                        
+                    <div class="panel panel-default">
+                        <div class="panel-heading text-center" style="background-color: #000000; color: #FFF; font-size: 14px">
+                            <b>ATIVAR EQUIPAMENTO </b>
+                        </div>
+
+                            <div class="table-responsive">
+                            <table class="table table-bordered">
+                                    <tbody>
+					                   <tr style="background-color: #F0F0F0;">
+						                  <td style="font-size: 14px; text-align: center;"><a href="https://www.sathdregional.com.br/#/ative-seu-receptor" target="_blank">www.sathdregional.com.br/#/ative-seu-receptor</a></td>
+                                    </tr></tbody>
+                                </table>
+
+                            </div>
+                        </div>
+
+
+
+
+
+                    <div class="panel panel-default">
+
+
+                            <div class="table-responsive">
+                                <table class="table table-bordered">
+                                    <tbody>
+<tr>
+   <td style="background-color: #003089; color: #FFFFFF; height: 30px; width: 10%; text-align: center"><b>FREQUÊNCIA</b></td>
+   <td style="background-color: #003089; color: #FFFFFF; height: 30px; width: 5%; text-align: center"><b>LOGO</b></td>
+   <td style="background-color: #003089; color: #FFFFFF; height: 30px; width: 35%; text-align: center"><b>CANAL</b></td>
+   <td style="background-color: #003089; color: #FFFFFF; height: 30px; width: 5%; text-align: center"><b>VÍDEO</b></td>
+   <td style="background-color: #003089; color: #FFFFFF; height: 30px; width: 20%; text-align: center"><b>ÁUDIO</b></td>
+   <td style="background-color: #003089; color: #FFFFFF; height: 30px; width: 5%; text-align: center"><b>PCR</b></td>
+  <!-- <td style="background-color: #000; color: #FFFFFF; height: 30px; width: 20%; text-align: center"><b>ALTERAÇÃO</b></td>-->
+</tr>
+
+<tr>
+<td style="border:1px solid #C0C0C0; text-align: center"><b>11720 V</b> <br>29900 | 2/3<br><img src="images/legenda/bom.jpg" border="0" alt="Sinal Bom" title="Sinal M�dio" style="vertical-align: middle"><br><span style="font-size: 9px"><a href="mapas.php?satelite=SC2" onclick="return hs.htmlExpand(this, { objectType: 'iframe', width: '820', height: '480', wrapperClassName: 'no-footer', align: 'center' } )" target="_blank">Brasil</a></span></td>
+<td style="border:1px solid #C0C0C0; text-align: center; vertical-align: middle;"><a href="http://www.portalbsd.com.br"><img src="images/tv/tvro.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left; ; vertical-align: middle;"><a href="" target="_blank" title="Mux Migração TVRO" style="font-size: 13px; color: #00004c"><b>Mux Migração TVRO</b></a>
+<br><span style="background-color: #FF860D; padding: 1px; color: #FFF">DVB-S2 8PSK</span> 
+
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center"></td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left"></td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;">Edu Rubens, Matheus Almeida, sidnei dos navegantes</span><br><b style="font-size: 11px">16/11/2023 - 18h49</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tv_justica.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Teste 16 - TV Justiça" style="font-size: 13px; color: #00004c"><b>Teste 16 - TV Justiça</b></a>
+<br>H264 | Encriptado | Teste
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">2883&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">2881 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">2883&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">José Gomes</span><br><b style="font-size: 11px">16/10/2023 - 16h13</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tv_camara_nac.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Tv Câmara HD" style="font-size: 13px; color: #00004c"><b>Tv Câmara HD</b></a>
+<br>H264 16:9 | FTA | Governo
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">2713&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">2711 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">2713&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">28/08/2023 - 14h35</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="https://www.miliciadaimaculada.org.br/tv-imaculada" style="font-size: 13px"><img src="images/tv/imaculada.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="https://www.miliciadaimaculada.org.br/tv-imaculada" target="_blank" title="TV Imaculada HD" style="font-size: 13px; color: #00004c"><b>TV Imaculada HD</b></a>
+<br>H264 16:9 | FTA | Religioso
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">2703&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">2701 AAC+ EST POR<br>
+2702 AAC+ EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">2703&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">José Gomes, Davidson Silva, Matheus Almeida, Nairton</span><br><b style="font-size: 11px">13/11/2023 - 14h47</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/photo_2019_07_01_18_51_09.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Paraná Turismo" style="font-size: 13px; color: #00004c"><b>TV Paraná Turismo</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">2723&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">2721 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">2723&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Nairton, Marcos Antônio</span><br><b style="font-size: 11px">26/10/2023 - 16h32</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/radio_cultura_brasil.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rádio Cultura Brasil" style="font-size: 13px; color: #6f5327"><b>Rádio Cultura Brasil</b></a>
+<br>MPEG1 | FTA | Radio
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">2991 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Nairton, Marcos Antônio</span><br><b style="font-size: 11px">26/10/2023 - 16h31</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tvr_2.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rádio Cultura FM" style="font-size: 13px; color: #6f5327"><b>Rádio Cultura FM</b></a>
+<br>MPEG1 | FTA | Radio
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">2981 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style="border:1px solid #C0C0C0; text-align: center"><span style="color: #001d7e"><b>StarOne D2</b><br></span><b>11740 H</b> <br>29900 | 2/3<br><img src="images/legenda/bom.jpg" border="0" alt="Sinal Bom" title="Sinal M�dio" style="vertical-align: middle"><br><span style="font-size: 9px"><a href="mapas.php?satelite=SC2" onclick="return hs.htmlExpand(this, { objectType: 'iframe', width: '820', height: '480', wrapperClassName: 'no-footer', align: 'center' } )" target="_blank">Brasil</a></span></td>
+<td style="border:1px solid #C0C0C0; text-align: center; vertical-align: middle;"><a href="http://www.portalbsd.com.br"><img src="images/tv/tvro.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left; ; vertical-align: middle;"><a href="" target="_blank" title="Mux Speedcast Migração TVRO" style="font-size: 13px; color: #00004c"><b>Mux Speedcast Migração TVRO</b></a>
+<br><span style="background-color: #FF860D; padding: 1px; color: #FFF">DVB-S2 8PSK</span> 
+
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center"></td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left"></td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;">Rodrigo Laurindo da Silva, José Gomes</span><br><b style="font-size: 11px">28/04/2023 - 08h37</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/sbt_pa.bmp" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="SBT Pará HD" style="font-size: 13px; color: #00004c"><b>SBT Pará HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">1801&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">1811  AAC+ EST POR<br>
+1812 AAC+ EST</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">1801&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Benni, Robert, Edu Silva, Andrey</span><br><b style="font-size: 11px">21/12/2022 - 01h59</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="https://www.redecentraltv.com.br/" style="font-size: 13px"><img src="images/tv/central_tv_ctba.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="https://www.redecentraltv.com.br/" target="_blank" title="Central TV" style="font-size: 13px; color: #00004c"><b>Central TV</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">1701&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">1711 AAC+ EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">1701&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Roberto Muniz, Gilmar Mota, Davidson Silva</span><br><b style="font-size: 11px">24/02/2023 - 05h35</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/cnn_br.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="CNN Brasil HD" style="font-size: 13px; color: #00004c"><b>CNN Brasil HD</b></a>
+<br>H264 16:9 | FTA | Notícia
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">2401&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">2411 AAC+ EST POR<br>
+2412 AAC+ EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">2401&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">NonattoSats, Samuel, Fbeirão</span><br><b style="font-size: 11px">28/07/2022 - 17h52</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/istv_logo.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="ISTV HD" style="font-size: 13px; color: #00004c"><b>ISTV HD</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">401&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">411 AAC+ EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">401&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Está sem sinal<br><span style="color: #0000FF;">Vários</span><br><b style="font-size: 11px">11/09/2023 - 15h09</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/life_ch.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#9A9A9A" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Life Channel HD" style="font-size: 13px; color: #00004c"><b>Life Channel HD</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#9A9A9A" style="border:1px solid #C0C0C0; text-align: center">2301&nbsp;</td>
+<td bgcolor="#9A9A9A" style="border:1px solid #C0C0C0; text-align: left">2311 AAC+ EST POR</td>
+<td bgcolor="#9A9A9A" style="border:1px solid #C0C0C0; text-align: center">2301&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Roberto Muniz, Gilmar Mota, Davidson Silva</span><br><b style="font-size: 11px">24/02/2023 - 05h33</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/polishop_1.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Polishop TV HD" style="font-size: 13px; color: #00004c"><b>Polishop TV HD</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">2501&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">2511 AAC+ EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">2501&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Fbeirão</span><br><b style="font-size: 11px">21/09/2022 - 17h04</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/rbtv.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="RBTV" style="font-size: 13px; color: #00004c"><b>RBTV</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">901&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">911 AAC+ EST POR<br>
+912 AAC+ EST</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">901&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Naldolisat</span><br><b style="font-size: 11px">01/09/2022 - 16h47</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/rede_brasil.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="REDE BRASIL" style="font-size: 13px; color: #00004c"><b>REDE BRASIL</b></a>
+<br>H264 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">801&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">811 AAC+ EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">801&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou Frequência<br><span style="color: #0000FF;">Samuel, Alisson, Waldir Junior, Bruxosat, Naldolisat</span><br><b style="font-size: 11px">11/10/2022 - 16h35</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/vida_ed.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rede Vida Educação 2" style="font-size: 13px; color: #00004c"><b>Rede Vida Educação 2</b></a>
+<br>H264 | FTA | Educativo
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">1301&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">1311 AAC+ EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">1301&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou frequência<br><span style="color: #0000FF;">Samuel, Alisson, Waldir Junior, Bruxosat, Naldolisat</span><br><b style="font-size: 11px">11/10/2022 - 16h35</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/vida_ed.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rede Vida Educação 3" style="font-size: 13px; color: #00004c"><b>Rede Vida Educação 3</b></a>
+<br>H264 16:9 | FTA | Educativo
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">1201&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">1211 AAC+ EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">1201&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Naldolisat, Davidson Silva</span><br><b style="font-size: 11px">24/06/2022 - 18h31</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/redetv_1.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="RedeTV HD" style="font-size: 13px; color: #00004c"><b>RedeTV HD</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">101&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">111 AAC+ EST POR<br></td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">101&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Naldolisat, Davidson Silva</span><br><b style="font-size: 11px">24/06/2022 - 18h35</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/aparecida.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Aparecida HD" style="font-size: 13px; color: #00004c"><b>TV Aparecida HD</b></a>
+<br>H264 16:9 | FTA | Religioso
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">201&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">211 AAC+ EST POR<br>
+212 AAC+ EST POR<br></td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">201&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Naldolisat, Davidson Silva</span><br><b style="font-size: 11px">24/06/2022 - 18h33</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/cultura.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Cultura HD" style="font-size: 13px; color: #00004c"><b>TV Cultura HD</b></a>
+<br>HEVC | FTA | Educativo
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">301&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">311 AAC+ EST POR<br>
+312 AAC+ EST POR<br></td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">301&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Marcos Antônio</span><br><b style="font-size: 11px">01/11/2022 - 06h44</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/cultura.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Cultura HD" style="font-size: 13px; color: #00004c"><b>TV Cultura HD</b></a>
+<br>H264 16:9 | FTA | Educativo
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">1401&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">1411 AAC+ EST POR<br>
+1412 AAC+ EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">1401&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Benni, Robert, Edu Silva, Andrey</span><br><b style="font-size: 11px">21/12/2022 - 09h08</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="https://tvmundomaior.com.br/" style="font-size: 13px"><img src="images/tv/tv_mundomaior.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="https://tvmundomaior.com.br/" target="_blank" title="TV Mundo Maior" style="font-size: 13px; color: #00004c"><b>TV Mundo Maior</b></a>
+<br>H264 16:9 | FTA | Religioso
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">1601&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">1611 AAC EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">1601&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">MJorge, Francisco Gilmar da Silva, Davidson Silva</span><br><b style="font-size: 11px">26/09/2022 - 16h13</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tvpadrecicero.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Padre Cicero HD" style="font-size: 13px; color: #00004c"><b>TV Padre Cicero HD</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">1101&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">1111 AAC+ EST POR<br>
+1112 AAC+ EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">1101&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou Pids<br><span style="color: #0000FF;">José Gomes</span><br><b style="font-size: 11px">24/09/2022 - 10h21</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tv_templo.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Templo HD" style="font-size: 13px; color: #00004c"><b>TV Templo HD</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">1001&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">1011 AAC+ EST POR<br>
+1012 AAC+ EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">1001&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Andrey Santos, Roberto Muniz</span><br><b style="font-size: 11px">19/04/2023 - 09h08</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/1628131163.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Ótima FM" style="font-size: 13px; color: #6f5327"><b>Ótima FM</b></a>
+<br>MPEG1 | FTA | Radio
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">2811 AAC EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">21/03/2023 - 07h40</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/meio_norte_fm.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Meio Norte FM" style="font-size: 13px; color: #6f5327"><b>Meio Norte FM</b></a>
+<br>MPEG1 | FTA | Radio
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">2711 AAC+ EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Benni, Robert, Edu Silva, Andrey</span><br><b style="font-size: 11px">21/12/2022 - 09h08</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="https://radioboanova.com.br/ouca-ao-vivo/" style="font-size: 13px"><img src="images/tv/radio.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="https://radioboanova.com.br/ouca-ao-vivo/" target="_blank" title="Radio Boa Nova" style="font-size: 13px; color: #6f5327"><b>Radio Boa Nova</b></a>
+<br>MPEG1 | FTA | Radio
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">2111 AAC EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Marcos Antônio</span><br><b style="font-size: 11px">19/08/2022 - 16h03</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/aparecida_radio.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rádio Aparecida FM" style="font-size: 13px; color: #6f5327"><b>Rádio Aparecida FM</b></a>
+<br>MPEG1 | FTA | Radio
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">611 AAC EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Jussie Brito</span><br><b style="font-size: 11px">28/08/2023 - 08h54</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/radio.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rádio Maanaim" style="font-size: 13px; color: #6f5327"><b>Rádio Maanaim</b></a>
+<br>MPEG1 | FTA | Adulto
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">4811 AAC</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">4811&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Marcos Antônio</span><br><b style="font-size: 11px">19/08/2022 - 16h05</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/radio.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rádio Rede Vida FM" style="font-size: 13px; color: #6f5327"><b>Rádio Rede Vida FM</b></a>
+<br>MPEG1 | FTA | Radio
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">711 AAC EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Sinal ativo novamente<br><span style="color: #0000FF;">Marcos Antônio</span><br><b style="font-size: 11px">28/11/2022 - 19h20</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/saudade_fm.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rádio Saudade FM" style="font-size: 13px; color: #6f5327"><b>Rádio Saudade FM</b></a>
+<br>MPEG1 | FTA | Radio
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">511 AAC EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Jussie Brito</span><br><b style="font-size: 11px">28/08/2023 - 08h55</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/radio.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rede Mensageiros da Paz" style="font-size: 13px; color: #6f5327"><b>Rede Mensageiros da Paz</b></a>
+<br>MPEG1 | FTA | Religioso
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">2911 AAC POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">2911&nbsp;</td>
+</tr>
+<tr>
+<td style="border:1px solid #C0C0C0; text-align: center"><span style="color: #001d7e"><b>StarOne D2</b><br></span><b>11780 H</b> <br>29900 | 2/3<br><img src="images/legenda/bom.jpg" border="0" alt="Sinal Bom" title="Sinal M�dio" style="vertical-align: middle"><br><span style="font-size: 9px"><a href="mapas.php?satelite=SC2" onclick="return hs.htmlExpand(this, { objectType: 'iframe', width: '820', height: '480', wrapperClassName: 'no-footer', align: 'center' } )" target="_blank">Brasil</a></span></td>
+<td style="border:1px solid #C0C0C0; text-align: center; vertical-align: middle;"><a href="http://www.portalbsd.com.br"><img src="images/tv/tvro.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left; ; vertical-align: middle;"><a href="" target="_blank" title="Mux Speedcast Migração TVRO" style="font-size: 13px; color: #00004c"><b>Mux Speedcast Migração TVRO</b></a>
+<br><span style="background-color: #FF860D; padding: 1px; color: #FFF">DVB-S2 8PSK</span> 
+
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center"></td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left"></td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Corrigido PCR<br><span style="color: #0000FF;">José Gomes</span><br><b style="font-size: 11px">05/08/2023 - 17h29</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tv_tribuna_recife.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Tribuna PE HD" style="font-size: 13px; color: #00004c"><b>TV Tribuna PE HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3701&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">3711 AAC+ EST POR<br>
+3712 AAC+ EST</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3702&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Sem Sinal<br><span style="color: #0000FF;">Jussie</span><br><b style="font-size: 11px">28/08/2023 - 14h02</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tv.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#9A9A9A" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="AKY TEM TV" style="font-size: 13px; color: #00004c"><b>AKY TEM TV</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#9A9A9A" style="border:1px solid #C0C0C0; text-align: center">3801&nbsp;</td>
+<td bgcolor="#9A9A9A" style="border:1px solid #C0C0C0; text-align: left">3811 AAC+ EST POR<br>
+3812 AAC+ EST POR</td>
+<td bgcolor="#9A9A9A" style="border:1px solid #C0C0C0; text-align: center">3801&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFDF5E">Alterou nome<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">23/11/2023 - 19h51</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tv.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Antena Vip HD" style="font-size: 13px; color: #00004c"><b>Antena Vip HD</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">5001&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">5011 AAC  EST POR<br>
+5012 AAC EST AD</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">5001&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Jussie Brito</span><br><b style="font-size: 11px">28/08/2023 - 08h18</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/1624968521.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="BR8 Tv" style="font-size: 13px; color: #00004c"><b>BR8 Tv</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">4301&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">4311 AAC<br>
+4312 AAC</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">4301&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Nonattosats, Edu Rubens, Marcos Antônio</span><br><b style="font-size: 11px">11/09/2023 - 15h28</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/igreja_maranata.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Igreja Cristã Maranata" style="font-size: 13px; color: #00004c"><b>Igreja Cristã Maranata</b></a>
+<br>H264 16:9 | FTA | Religioso
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">4501&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">4511 AAC EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">4501&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">30/10/2023 - 08h49</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tv.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Masper Tv" style="font-size: 13px; color: #00004c"><b>Masper Tv</b></a>
+<br>H264 | FTA | Promo
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">4901&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">4911 AAC EST POR<br>
+4912 AAC EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">4901&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Logotipo atualizado<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">22/08/2023 - 17h11</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/playtv.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Play TV+ HD" style="font-size: 13px; color: #00004c"><b>Play TV+ HD</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3901&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3911 AAC+ EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3901&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado logomarca<br><span style="color: #0000FF;">Rodrigo Laurindo da Silva</span><br><b style="font-size: 11px">11/08/2023 - 18h59</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/pt_sat.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="PT Sat" style="font-size: 13px; color: #00004c"><b>PT Sat</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">4201&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">4211 AAC+ EST POR<br>
+4212 AAC+ EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">4201&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou frequência<br><span style="color: #0000FF;">Marcos Antônio, Fbeirão</span><br><b style="font-size: 11px">04/04/2023 - 06h30</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/sonlife_1.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="SBN" style="font-size: 13px; color: #00004c"><b>SBN</b></a>
+<br>H264 16:9 | FTA | Religioso
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3401&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3411 AAC+ EST POR<br>
+3412 AAC+ EST ESP</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3401&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Davidson Silva, Wunsch, Thiago, José Gomes</span><br><b style="font-size: 11px">14/08/2023 - 15h03</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tvcel.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Cel HD" style="font-size: 13px; color: #00004c"><b>TV Cel HD</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">4101&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">4111 AAC+ EST POR<br>
+4112 AAC+ EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">4101&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Sem sinal<br><span style="color: #0000FF;">José Gomes, Rodrigo Laurindo da Silva</span><br><b style="font-size: 11px">28/08/2023 - 17h26</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tv_escola.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#9A9A9A" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Escola HD" style="font-size: 13px; color: #00004c"><b>TV Escola HD</b></a>
+<br>H264 16:9 | FTA | Educativo
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#9A9A9A" style="border:1px solid #C0C0C0; text-align: center">3601&nbsp;</td>
+<td bgcolor="#9A9A9A" style="border:1px solid #C0C0C0; text-align: left">3611 AAC+ EST POR<br>
+3612 AAC+ EST POR</td>
+<td bgcolor="#9A9A9A" style="border:1px solid #C0C0C0; text-align: center">3601&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">21/03/2023 - 07h33</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/download_10.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Maná Brasil HD" style="font-size: 13px; color: #00004c"><b>TV Maná Brasil HD</b></a>
+<br>H264 16:9 | FTA | Religioso
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3201&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3211 AAC+ EST POR<br>
+3212 AAC+ EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3201&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">21/03/2023 - 07h36</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tv_meio_norte.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Meio Norte HD" style="font-size: 13px; color: #00004c"><b>TV Meio Norte HD</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3001&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3011 AAC+ EST POR<br>
+3012 AAC+ EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3001&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">21/03/2023 - 07h35</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/milagro.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV MilAgro Brasil HD" style="font-size: 13px; color: #00004c"><b>TV MilAgro Brasil HD</b></a>
+<br>H264 16:9 | FTA | Rural
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3101&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3111 AAC+ EST POR<br>
+3112 AAC+ EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3101&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Jussie Brito</span><br><b style="font-size: 11px">28/08/2023 - 08h23</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/ultrafarma.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Ultrafarma" style="font-size: 13px; color: #00004c"><b>TV Ultrafarma</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">4601&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">4611 AAC<br>
+4612 AAC</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">4601&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou frequência<br><span style="color: #0000FF;">Marcos Antônio, Fbeirão</span><br><b style="font-size: 11px">04/04/2023 - 06h30</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/5_2.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Verdade HD" style="font-size: 13px; color: #00004c"><b>TV Verdade HD</b></a>
+<br>H264 16:9 | FTA | Religioso
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3301&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3311 AAC+ EST POR<br>
+3312 AAC+ EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3301&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado logomarca<br><span style="color: #0000FF;">Rodrigo Laurindo da Silva</span><br><b style="font-size: 11px">12/05/2023 - 15h54</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="https://www.vivaxtv.com/" style="font-size: 13px"><img src="images/tv/vivaxtv.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="https://www.vivaxtv.com/" target="_blank" title="Vivax TV HD" style="font-size: 13px; color: #00004c"><b>Vivax TV HD</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3501&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3511 AAC+ EST POR<br>
+3512 AAC+ EST</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3501&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Logotipo atualizado<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">22/08/2023 - 17h10</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/woohooesportes.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="WooHoo Esportes HD" style="font-size: 13px; color: #00004c"><b>WooHoo Esportes HD</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">4001&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">4011 AAC+ EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">4001&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Davidson Silva, Wunsch, Thiago, José Gomes</span><br><b style="font-size: 11px">22/08/2023 - 17h02</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/ypetv.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Ype TV HD" style="font-size: 13px; color: #00004c"><b>Ype TV HD</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">4401&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">4411 AAC+ EST POR<br>
+4412 AAC+ EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">4401&nbsp;</td>
+</tr>
+<tr>
+<td style="border:1px solid #C0C0C0; text-align: center"><span style="color: #001d7e"><b>StarOne C2</b><br></span><b>12000 V</b> <br>29900 | 2/3<br><img src="images/legenda/forte.jpg" border="0" alt="Sinal Forte" title="Sinal Forte" style="vertical-align: middle"><br><span style="font-size: 9px"><a href="mapas.php?satelite=SC2" onclick="return hs.htmlExpand(this, { objectType: 'iframe', width: '820', height: '480', wrapperClassName: 'no-footer', align: 'center' } )" target="_blank">Brasil</a></span></td>
+<td style="border:1px solid #C0C0C0; text-align: center; vertical-align: middle;"><a href="http://www.portalbsd.com.br"><img src="images/tv/tvro.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left; ; vertical-align: middle;"><a href="" target="_blank" title="Mux Migração TVRO" style="font-size: 13px; color: #00004c"><b>Mux Migração TVRO</b></a>
+<br><span style="background-color: #FF860D; padding: 1px; color: #FFF">DVB-S2 8PSK</span> 
+
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center"></td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left"></td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">19/12/2022 - 09h06</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/band.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Band Amazonas HD" style="font-size: 13px; color: #00004c"><b>Band Amazonas HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">4023&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">4021 MPEG EST POR<br>
+4022 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">4023&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">19/12/2022 - 09h06</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/band.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Band Ceará HD" style="font-size: 13px; color: #00004c"><b>Band Ceará HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">4033&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">4031 MPEG EST POR<br>
+4032 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">4033&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">19/12/2022 - 09h05</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/band.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Band Mais HD" style="font-size: 13px; color: #00004c"><b>Band Mais HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3993&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">3991 MPEG EST POR<br>
+3992 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3993&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">19/12/2022 - 09h04</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/band.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Band Paraná HD" style="font-size: 13px; color: #00004c"><b>Band Paraná HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3983&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">3981 MPEG EST POR<br>
+3982 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3983&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">19/12/2022 - 09h05</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/band.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Band Paulista HD" style="font-size: 13px; color: #00004c"><b>Band Paulista HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">4013&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">4011 MPEG EST POR<br>
+4012 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">4013&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">19/12/2022 - 09h04</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/band.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Band Porto Alegre HD" style="font-size: 13px; color: #00004c"><b>Band Porto Alegre HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3973&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">3971 MPEG EST POR<br>
+3972 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3973&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">19/12/2022 - 09h05</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/band.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Band Vale do Paraíba HD" style="font-size: 13px; color: #00004c"><b>Band Vale do Paraíba HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">4003&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">4001 MPEG EST POR<br>
+4002 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">4003&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">José Gomes, sidnei dos navegantes, Davidson Silva,</span><br><b style="font-size: 11px">25/01/2023 - 06h27</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/nsctv.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="NSC TV Florianópolis HD" style="font-size: 13px; color: #00004c"><b>NSC TV Florianópolis HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3903&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">3901 MPEG EST POR<br>
+3902 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3903&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;">Edu Rubens</span><br><b style="font-size: 11px">17/11/2023 - 09h54</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tv.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Teste 15" style="font-size: 13px; color: #00004c"><b>Teste 15</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Teste
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3963&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">3961 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3963&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Marcos Antônio</span><br><b style="font-size: 11px">19/04/2023 - 06h55</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/verdes.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Verdes Mares Cariri HD" style="font-size: 13px; color: #00004c"><b>TV Verdes Mares Cariri HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3933&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">3931 MPEG EST POR<br>
+3932 MPEG EST</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3933&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Davidson Silva, Moises Sat, Pedro Rodriguez, Roberto Muniz</span><br><b style="font-size: 11px">21/12/2022 - 09h09</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/agro_canal.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Agro Canal" style="font-size: 13px; color: #00004c"><b>Agro Canal</b></a>
+<br>H264 16:9 | FTA | Rural
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">4053&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">4051 MPEG EST POR<br>
+4052 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">4053&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou Pids<br><span style="color: #0000FF;">José Gomes</span><br><b style="font-size: 11px">11/10/2022 - 09h24</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/boav_tv.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Boa Vontade TV HD" style="font-size: 13px; color: #00004c"><b>Boa Vontade TV HD</b></a>
+<br>H264 16:9 | FTA | Religioso
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3873&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3871 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3873&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Davidson Silva, Moises Sat, Pedro Rodriguez, Roberto Muniz</span><br><b style="font-size: 11px">21/12/2022 - 09h15</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/canal_do_boi.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Canal do Boi" style="font-size: 13px; color: #00004c"><b>Canal do Boi</b></a>
+<br>H264 16:9 | FTA | Rural
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">4043&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">4041 MPEG EST POR<br>
+4042 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">4043&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">02/02/2023 - 06h37</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/criador.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Canal do Criador" style="font-size: 13px; color: #00004c"><b>Canal do Criador</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3953&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3951 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3953&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterado definição<br><span style="color: #0000FF;">Marcos César</span><br><b style="font-size: 11px">26/12/2022 - 13h05</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/canal_rural_br.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Canal Rural HD" style="font-size: 13px; color: #00004c"><b>Canal Rural HD</b></a>
+<br>H264 16:9 | FTA | Rural
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3883&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3881 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3883&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Correção de Pids<br><span style="color: #0000FF;">Marcos César</span><br><b style="font-size: 11px">21/12/2022 - 16h21</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/rede_gospel.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rede Gospel HD" style="font-size: 13px; color: #00004c"><b>Rede Gospel HD</b></a>
+<br>H264 16:9 | FTA | Religioso
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3913&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3911 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3913&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Marcos Antônio</span><br><b style="font-size: 11px">11/10/2022 - 07h26</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/super.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rede Super HD" style="font-size: 13px; color: #00004c"><b>Rede Super HD</b></a>
+<br>H264 16:9 | FTA | Religioso
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3893&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3891 MPEG EST POR<br></td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3893&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou PIDs<br><span style="color: #0000FF;">Marcos Antônio</span><br><b style="font-size: 11px">09/02/2023 - 06h54</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/sem.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Gazin" style="font-size: 13px; color: #00004c"><b>TV Gazin</b></a>
+<br>H264 16:9 | FTA | Governo
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3923&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3921 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3923&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">25/05/2023 - 13h29</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/bandnews.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Band News" style="font-size: 13px; color: #6f5327"><b>Band News</b></a>
+<br>MPEG1 | FTA | Radio
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">2891 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Roberto Muniz,  Carlos Danilo</span><br><b style="font-size: 11px">02/03/2023 - 09h18</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/778867a7_f015_42d9_85ed_60f6f4da3670.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="FM 93" style="font-size: 13px; color: #6f5327"><b>FM 93</b></a>
+<br>MPEG1 | FTA | Radio
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3941 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">25/05/2023 - 13h34</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/bandeirantesfm991_br.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rádio Band FM" style="font-size: 13px; color: #6f5327"><b>Rádio Band FM</b></a>
+<br>MPEG1 | FTA | Radio
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3021 MEPG EST POR<br></td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">25/05/2023 - 13h31</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/bandeirantesam840_br.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rádio Bandeirantes AM" style="font-size: 13px; color: #6f5327"><b>Rádio Bandeirantes AM</b></a>
+<br>MPEG1 | FTA | Radio
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3011 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Roberto Muniz</span><br><b style="font-size: 11px">08/11/2022 - 06h53</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/gospel_fm.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rádio Gospel FM" style="font-size: 13px; color: #6f5327"><b>Rádio Gospel FM</b></a>
+<br>MPEG1 | FTA | Radio
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">4091 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">25/05/2023 - 13h37</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/66.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rádio Nativa FM" style="font-size: 13px; color: #6f5327"><b>Rádio Nativa FM</b></a>
+<br>MPEG1 | FTA | Radio
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3031 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Roberto Muniz</span><br><b style="font-size: 11px">06/06/2023 - 05h27</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/novo_tempo_1.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rádio Novo Tempo" style="font-size: 13px; color: #6f5327"><b>Rádio Novo Tempo</b></a>
+<br>MPEG1 | FTA | Radio
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3051 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Sinal ativo novamente<br><span style="color: #0000FF;">Efeso2007</span><br><b style="font-size: 11px">18/12/2022 - 09h01</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/9.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rádio Super" style="font-size: 13px; color: #6f5327"><b>Rádio Super</b></a>
+<br>MPEG1 | FTA | Radio
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3892 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Roberto Muniz,  Carlos Danilo</span><br><b style="font-size: 11px">02/03/2023 - 09h39</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/radio_tamoio.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rádio Tamoio" style="font-size: 13px; color: #6f5327"><b>Rádio Tamoio</b></a>
+<br>MPEG1 | FTA | Radio
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3041 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Roberto Muniz,  Carlos Danilo</span><br><b style="font-size: 11px">02/03/2023 - 09h34</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/7d6bd1ed_ebfb_478a_a44e_85ea98073d34.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rádio Verdes Mares Cariri" style="font-size: 13px; color: #6f5327"><b>Rádio Verdes Mares Cariri</b></a>
+<br>MPEG1 | FTA | Radio
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">4071 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Roberto Muniz,  Carlos Danilo</span><br><b style="font-size: 11px">02/03/2023 - 09h22</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/7d6bd1ed_ebfb_478a_a44e_85ea98073d34.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rádio Verdes Mares Fortaleza" style="font-size: 13px; color: #6f5327"><b>Rádio Verdes Mares Fortaleza</b></a>
+<br>MPEG1 | FTA | Radio
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">4061 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Roberto Muniz,  Carlos Danilo</span><br><b style="font-size: 11px">02/03/2023 - 09h37</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/7d6bd1ed_ebfb_478a_a44e_85ea98073d34.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rádio Verdes Mares Sobral" style="font-size: 13px; color: #6f5327"><b>Rádio Verdes Mares Sobral</b></a>
+<br>MPEG1 | FTA | Radio
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">4081 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style="border:1px solid #C0C0C0; text-align: center"><span style="color: #001d7e"><b>StarOne D2</b><br></span><b>12120 V</b> <br>29900 | 2/3<br><img src="images/legenda/forte.jpg" border="0" alt="Sinal Forte" title="Sinal Forte" style="vertical-align: middle"><br><span style="font-size: 9px"><a href="mapas.php?satelite=SC2" onclick="return hs.htmlExpand(this, { objectType: 'iframe', width: '820', height: '480', wrapperClassName: 'no-footer', align: 'center' } )" target="_blank">Brasil</a></span></td>
+<td style="border:1px solid #C0C0C0; text-align: center; vertical-align: middle;"><a href="http://www.portalbsd.com.br"><img src="images/tv/tvro.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left; ; vertical-align: middle;"><a href="" target="_blank" title="Mux Migração TVRO" style="font-size: 13px; color: #00004c"><b>Mux Migração TVRO</b></a>
+<br><span style="background-color: #FF860D; padding: 1px; color: #FFF">DVB-S2 8PSK</span> 
+
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center"></td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left"></td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">19/12/2022 - 09h13</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/eptv.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="EPTV Sul de Minas HD" style="font-size: 13px; color: #00004c"><b>EPTV Sul de Minas HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5123&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">5121 MPEG EST POR<br>
+5122 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5123&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">19/12/2022 - 09h14</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/sbt_df.bmp" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="SBT Brasília HD" style="font-size: 13px; color: #00004c"><b>SBT Brasília HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5223&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">5221 MPEG EST POR<br>
+5222 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5223&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">19/12/2022 - 09h14</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/sbt_rio.bmp" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="SBT Rio HD" style="font-size: 13px; color: #00004c"><b>SBT Rio HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5183&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">5181 MPEG EST POR<br>
+5182 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">51383&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Está sem sinal<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">11/09/2023 - 15h11</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tv.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#9A9A9A" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Teste TVRO" style="font-size: 13px; color: #00004c"><b>Teste TVRO</b></a>
+<br>H264 16:9 | Nagravision 3/Betacrypt | Teste
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#9A9A9A" style="border:1px solid #C0C0C0; text-align: center">5283&nbsp;</td>
+<td bgcolor="#9A9A9A" style="border:1px solid #C0C0C0; text-align: left">5282 MPEG EST POR</td>
+<td bgcolor="#9A9A9A" style="border:1px solid #C0C0C0; text-align: center">5283&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">19/12/2022 - 09h14</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tvca.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Centro América HD" style="font-size: 13px; color: #00004c"><b>TV Centro América HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5133&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">5131 MPEG EST POR<br>
+5132 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5133&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou PCR<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">21/03/2023 - 18h59</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tvdiario.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Diário Fortaleza HD" style="font-size: 13px; color: #00004c"><b>TV Diário Fortaleza HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5113&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">5111 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">8191&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">19/12/2022 - 09h13</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tv_mirante_1.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Mirante HD" style="font-size: 13px; color: #00004c"><b>TV Mirante HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5143&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">5141 MPEG EST POR<br>
+5142 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5143&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">19/12/2022 - 09h13</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tv_morena.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Morena HD" style="font-size: 13px; color: #00004c"><b>TV Morena HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5153&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">5151 MPEG EST POR<br>
+5152 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5153&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou pid de vídeo<br><span style="color: #0000FF;">José Gomes</span><br><b style="font-size: 11px">11/08/2022 - 18h02</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tv_cancao_nova.bmp" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Canção Nova HD" style="font-size: 13px; color: #00004c"><b>Canção Nova HD</b></a>
+<br>H264 16:9 | FTA | Religioso
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">5273&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">5271 MPEG EST POR<br>
+5272 MPEG EST POR<br></td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">5273&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou pid de vídeo<br><span style="color: #0000FF;">José Gomes</span><br><b style="font-size: 11px">11/08/2022 - 17h59</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/recordnews.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Record News HD" style="font-size: 13px; color: #00004c"><b>Record News HD</b></a>
+<br>H264 16:9 | FTA | Notícia
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">5203&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">5201 MPEG  EST POR<br>
+5202 MPEG EST POR<br></td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">5203&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou PIDs<br><span style="color: #0000FF;">Fernando Martins</span><br><b style="font-size: 11px">12/08/2022 - 18h21</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/record.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="RecordTV Nacional HD" style="font-size: 13px; color: #00004c"><b>RecordTV Nacional HD</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">5233&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">5231 MPEG EST POR<br>
+5232 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">5233&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Problemas Técnicos<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">10/11/2023 - 13h51</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/rede_america_tv8.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rede América HD" style="font-size: 13px; color: #00004c"><b>Rede América HD</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">5173&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">5171 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">5173&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou pid de vídeo e pcr<br><span style="color: #0000FF;">José Gomes</span><br><b style="font-size: 11px">13/07/2022 - 10h28</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/seculo_21.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rede Século 21 HD" style="font-size: 13px; color: #00004c"><b>Rede Século 21 HD</b></a>
+<br>H264 16:9 | FTA | Religioso
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">5243&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">5241 MPEG EST POR<br>
+5242 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">5243&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou pid de vídeo e pcr<br><span style="color: #0000FF;">José Gomes</span><br><b style="font-size: 11px">13/07/2022 - 10h27</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/redevida.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rede Vida HD" style="font-size: 13px; color: #00004c"><b>Rede Vida HD</b></a>
+<br>H264 16:9 | FTA | Religioso
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">5253&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">5251 MPEG EST POR<br>
+5552 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">5253&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou pid de vídeo e pcr<br><span style="color: #0000FF;">José Gomes</span><br><b style="font-size: 11px">13/07/2022 - 10h28</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tvhorizonte.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Horizonte HD" style="font-size: 13px; color: #00004c"><b>TV Horizonte HD</b></a>
+<br>H264 16:9 | FTA | Religioso
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">5293&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">5291 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">5293&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou pid de vídeo e pcr<br><span style="color: #0000FF;">José Gomes</span><br><b style="font-size: 11px">13/07/2022 - 11h16</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/ideal.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Ideal" style="font-size: 13px; color: #00004c"><b>TV Ideal</b></a>
+<br>H264 16:9 | FTA | Religioso
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">5193&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">5191 MPEG EST POR<br>
+5192 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">5193&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado áudio<br><span style="color: #0000FF;">Mario</span><br><b style="font-size: 11px">14/08/2023 - 17h12</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/novo_tempo_1.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Novo Tempo HD" style="font-size: 13px; color: #00004c"><b>TV Novo Tempo HD</b></a>
+<br>H264 16:9 | FTA | Religioso
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">5163&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">5161 MPEG EST POR<br>
+5162 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">5163&nbsp;</td>
+</tr>
+<tr>
+<td style="border:1px solid #C0C0C0; text-align: center"><span style="color: #001d7e"><b>StarOne D2</b><br></span><b>12160 V</b> <br>29900 | 2/3<br><img src="images/legenda/forte.jpg" border="0" alt="Sinal Forte" title="Sinal Forte" style="vertical-align: middle"><br><span style="font-size: 9px"><a href="mapas.php?satelite=SC2" onclick="return hs.htmlExpand(this, { objectType: 'iframe', width: '820', height: '480', wrapperClassName: 'no-footer', align: 'center' } )" target="_blank">Brasil</a></span></td>
+<td style="border:1px solid #C0C0C0; text-align: center; vertical-align: middle;"><a href="http://www.portalbsd.com.br"><img src="images/tv/tvro.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left; ; vertical-align: middle;"><a href="" target="_blank" title="Mux Migração TVRO" style="font-size: 13px; color: #00004c"><b>Mux Migração TVRO</b></a>
+<br><span style="background-color: #FF860D; padding: 1px; color: #FFF">DVB-S2 8PSK</span> 
+
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center"></td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left"></td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">19/12/2022 - 09h17</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/band.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Band Bahia HD" style="font-size: 13px; color: #00004c"><b>Band Bahia HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3463&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">3461 MPEG EST POR<br>
+3462 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3463&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">19/12/2022 - 09h16</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/band.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Band Minas HD" style="font-size: 13px; color: #00004c"><b>Band Minas HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3453&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">3451 MPEG EST POR<br>
+3452 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3453&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">19/12/2022 - 09h18</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/band.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Band Rio Interior HD" style="font-size: 13px; color: #00004c"><b>Band Rio Interior HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3483&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">3481 MPEG EST POR<br>
+3482 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3483&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">19/12/2022 - 09h15</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/band.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Band SAT HD" style="font-size: 13px; color: #00004c"><b>Band SAT HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3863&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">3861 MPEG EST POR<br>
+3862 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3863&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">19/12/2022 - 09h16</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/band.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Band São Paulo HD" style="font-size: 13px; color: #00004c"><b>Band São Paulo HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3313&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">3311 MPEG EST POR<br>
+3312 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3313&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">19/12/2022 - 09h18</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/sbt.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="SBT Nacional HD" style="font-size: 13px; color: #00004c"><b>SBT Nacional HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3343&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">3341 MPEG EST POR<br>
+3342 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3343&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">19/12/2022 - 09h16</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/sbt_rs.bmp" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="SBT RS HD" style="font-size: 13px; color: #00004c"><b>SBT RS HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3473&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">3471 MPEG EST POR<br>
+3472 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3473&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Codificou<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">19/12/2022 - 09h16</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/sbt.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="SBT SP HD" style="font-size: 13px; color: #00004c"><b>SBT SP HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3493&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">3491 MPEG EST POR<br>
+3492 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">3493&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou pid de vídeo e pcr<br><span style="color: #0000FF;">José Gomes</span><br><b style="font-size: 11px">07/12/2022 - 10h08</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/cnt.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="CNT Curitiba HD" style="font-size: 13px; color: #00004c"><b>CNT Curitiba HD</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3413&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3411 MPEG EST POR<br>
+3412 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3413&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou pid de vídeo e pcr<br><span style="color: #0000FF;">José Gomes</span><br><b style="font-size: 11px">07/12/2022 - 10h05</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/cnt.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="CNT Rio HD" style="font-size: 13px; color: #00004c"><b>CNT Rio HD</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3423&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3421 MPEG EST POR<br>
+3422 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3423&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou pid de vídeo e pcr<br><span style="color: #0000FF;">José Gomes</span><br><b style="font-size: 11px">07/12/2022 - 10h05</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/rede21.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rede 21 HD" style="font-size: 13px; color: #00004c"><b>Rede 21 HD</b></a>
+<br>H264 16:9 | FTA | Religioso
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3323&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3321 MPEG EST POR<br>
+3322 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3323&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou pid de vídeo e pcr<br><span style="color: #0000FF;">José Gomes</span><br><b style="font-size: 11px">06/12/2022 - 09h59</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/terra_viva.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Terra Viva HD" style="font-size: 13px; color: #00004c"><b>Terra Viva HD</b></a>
+<br>H264 16:9 | FTA | Rural
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3333&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3331 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3333&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou pid de vídeo e pcr<br><span style="color: #0000FF;">José Gomes</span><br><b style="font-size: 11px">07/12/2022 - 10h06</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/evangelizar.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Evangelizar HD" style="font-size: 13px; color: #00004c"><b>TV Evangelizar HD</b></a>
+<br>H264 16:9 | FTA | Religioso
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3383&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3381 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3383&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou pid de vídeo e pcr<br><span style="color: #0000FF;">José Gomes</span><br><b style="font-size: 11px">11/08/2022 - 18h17</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/gazeta.jpeg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Gazeta São Paulo HD" style="font-size: 13px; color: #00004c"><b>TV Gazeta São Paulo HD</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3433&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3431 MPEG EST POR<br>
+3432 MPEG EST POR<br></td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3433&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou pid de vídeo e pcr<br><span style="color: #0000FF;">José Gomes</span><br><b style="font-size: 11px">07/12/2022 - 10h08</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/1634066953.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Jovem Pan News" style="font-size: 13px; color: #00004c"><b>TV Jovem Pan News</b></a>
+<br>H264 16:9 | FTA | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3443&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3441 MPEG EST POR<br>
+3442 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3443&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Atualizado pids<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">11/08/2022 - 18h15</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/pai_eterno_1.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Pai Eterno HD" style="font-size: 13px; color: #00004c"><b>TV Pai Eterno HD</b></a>
+<br>H264 16:9 | FTA | Religioso
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3403&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3401 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">3403&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Gilson Teles</span><br><b style="font-size: 11px">12/09/2023 - 15h13</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/radio_evangelizar.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rádio Evangelizar" style="font-size: 13px; color: #6f5327"><b>Rádio Evangelizar</b></a>
+<br>MPEG1 | FTA | Religioso
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3382 MPEG EST POR<br>
+3388</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado<br><span style="color: #0000FF;">Edu Silva, Gilson Teles</span><br><b style="font-size: 11px">11/09/2023 - 00h21</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/radio_evangelizar.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rádio Evangelizar FM" style="font-size: 13px; color: #6f5327"><b>Rádio Evangelizar FM</b></a>
+<br>MPEG1 | FTA | Radio
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">3382 EST POR<br>
+3388 EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style="border:1px solid #C0C0C0; text-align: center"><span style="color: #001d7e"><b>StarOne C4</b><br></span><b>12420 H</b> <br>29900 | 3/5<br><img src="images/legenda/forte.jpg" border="0" alt="Sinal Forte" title="Sinal Forte" style="vertical-align: middle"><br><span style="font-size: 9px"><a href="mapas.php?satelite=SC2" onclick="return hs.htmlExpand(this, { objectType: 'iframe', width: '820', height: '480', wrapperClassName: 'no-footer', align: 'center' } )" target="_blank">Brasil</a></span></td>
+<td style="border:1px solid #C0C0C0; text-align: center; vertical-align: middle;"><a href="http://www.portalbsd.com.br"><img src="images/tv/claro.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left; ; vertical-align: middle;"><a href="" target="_blank" title="Mux Claro TV Brasil" style="font-size: 13px; color: #00004c"><b>Mux Claro TV Brasil</b></a>
+<br><span style="background-color: #FF860D; padding: 1px; color: #FFF">DVB-S2 8PSK</span> Piloto: On
+
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center"></td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left"></td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou áudio pra MPEG<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">11/07/2022 - 17h02</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://redeglobo.globo.com/globominas/" style="font-size: 13px"><img src="images/tv/globo.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="http://redeglobo.globo.com/globominas/" target="_blank" title="TV Globo Minas HD" style="font-size: 13px; color: #00004c"><b>TV Globo Minas HD</b></a>
+<br>H264 16:9 | Nagravision 3/Betacrypt | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5703&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">5701 MPEG EST POR<br>
+5702 AC3 EST ORI<br>
+5708 MPEG EST POR<br></td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5703&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionou Betacrypt<br><span style="color: #0000FF;">Rodrigo Bidoia</span><br><b style="font-size: 11px">08/07/2022 - 07h26</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://redeglobo.globo.com/globonordeste/" style="font-size: 13px"><img src="images/tv/globo.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="http://redeglobo.globo.com/globonordeste/" target="_blank" title="TV Globo Nordeste HD" style="font-size: 13px; color: #00004c"><b>TV Globo Nordeste HD</b></a>
+<br>H264 16:9 | Nagravision 3/Betacrypt | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5713&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">5711 AC3 EST POR<br>
+5712 AC3 EST ORI</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5713&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionou Betacrypt<br><span style="color: #0000FF;">Rodrigo Bidoia</span><br><b style="font-size: 11px">08/07/2022 - 07h27</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://redeglobo.globo.com/pa/tvliberal/" style="font-size: 13px"><img src="images/tv/tv_liberal.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="http://redeglobo.globo.com/pa/tvliberal/" target="_blank" title="TV Liberal Belém HD" style="font-size: 13px; color: #00004c"><b>TV Liberal Belém HD</b></a>
+<br>H264 16:9 | Nagravision 3/Betacrypt | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5723&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">5721 AC3 EST POR<br>
+5722 AC3 EST ORI</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5723&nbsp;</td>
+</tr>
+<tr>
+<td style="border:1px solid #C0C0C0; text-align: center"><span style="color: #001d7e"><b>StarOne C4</b><br></span><b>12460 H</b> <br>29900 | 3/5<br><img src="images/legenda/forte.jpg" border="0" alt="Sinal Forte" title="Sinal Forte" style="vertical-align: middle"><br><span style="font-size: 9px"><a href="mapas.php?satelite=SC2" onclick="return hs.htmlExpand(this, { objectType: 'iframe', width: '820', height: '480', wrapperClassName: 'no-footer', align: 'center' } )" target="_blank">Brasil</a></span></td>
+<td style="border:1px solid #C0C0C0; text-align: center; vertical-align: middle;"><a href="http://www.portalbsd.com.br"><img src="images/tv/claro.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left; ; vertical-align: middle;"><a href="" target="_blank" title="Mux Claro TV Brasil" style="font-size: 13px; color: #00004c"><b>Mux Claro TV Brasil</b></a>
+<br><span style="background-color: #FF860D; padding: 1px; color: #FFF">DVB-S2 8PSK</span> Piloto: On
+
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center"></td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left"></td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionou Betacrypt<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">08/07/2022 - 07h36</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://redeglobo.globo.com/redebahia/" style="font-size: 13px"><img src="images/tv/rede_bahia_4.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="http://redeglobo.globo.com/redebahia/" target="_blank" title="TV Bahia HD" style="font-size: 13px; color: #00004c"><b>TV Bahia HD</b></a>
+<br>H264 16:9 | Nagravision 3/Betacrypt | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5923&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">5921 AC3 EST POR<br>
+5922 AC3 EST ORI</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5923&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionou Betacrypt<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">08/07/2022 - 07h36</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/globo.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Globo Rio HD" style="font-size: 13px; color: #00004c"><b>TV Globo Rio HD</b></a>
+<br>H264 16:9 | Nagravision 3/Betacrypt | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5913&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">5911 AC3 EST POR<br>
+5912 AC3 EST ORI</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5913&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionou áudio MPEG<br><span style="color: #0000FF;">pu7lte, José Gomes</span><br><b style="font-size: 11px">14/07/2022 - 19h02</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://redeglobo.globo.com/" style="font-size: 13px"><img src="images/tv/globo.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="http://redeglobo.globo.com/" target="_blank" title="TV Globo São Paulo HD" style="font-size: 13px; color: #00004c"><b>TV Globo São Paulo HD</b></a>
+<br>H264 16:9 | Nagravision 3/Betacrypt | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5903&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">5901 AC3 EST POR<br>
+5902 AC3 EST ORI<br>
+455 MPEG EST POR<br>
+5908 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5903&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionou áudio MPEG<br><span style="color: #0000FF;">pu7lte, José Gomes</span><br><b style="font-size: 11px">14/07/2022 - 19h01</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://redeglobo.globo.com/tvverdesmares/" style="font-size: 13px"><img src="images/tv/verdes.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="http://redeglobo.globo.com/tvverdesmares/" target="_blank" title="TV Verdes Mares HD" style="font-size: 13px; color: #00004c"><b>TV Verdes Mares HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5933&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">5931 AC3 EST POR<br>
+5932 AC3 EST ORI<br>
+456 MPEG EST POR<br>
+5938 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">5933&nbsp;</td>
+</tr>
+<tr>
+<td style="border:1px solid #C0C0C0; text-align: center"><span style="color: #001d7e"><b>StarOne C2</b><br></span><b>12480 V</b> <br>29900 | 3/5<br><img src="images/legenda/forte.jpg" border="0" alt="Sinal Forte" title="Sinal Forte" style="vertical-align: middle"><br><span style="font-size: 9px"><a href="mapas.php?satelite=SC2" onclick="return hs.htmlExpand(this, { objectType: 'iframe', width: '820', height: '480', wrapperClassName: 'no-footer', align: 'center' } )" target="_blank">Brasil</a></span></td>
+<td style="border:1px solid #C0C0C0; text-align: center; vertical-align: middle;"><a href="http://www.portalbsd.com.br"><img src="images/tv/claro.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left; ; vertical-align: middle;"><a href="" target="_blank" title="Mux Claro TV Brasil" style="font-size: 13px; color: #00004c"><b>Mux Claro TV Brasil</b></a>
+<br><span style="background-color: #FF860D; padding: 1px; color: #FFF">DVB-S2 8PSK</span> Piloto: On
+
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center"></td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left"></td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Sem sinal, saiu do mux<br><span style="color: #0000FF;">Edu Rubens</span><br><b style="font-size: 11px">13/09/2023 - 18h52</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tv.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#9A9A9A" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Teste 02" style="font-size: 13px; color: #00004c"><b>Teste 02</b></a>
+<br>H264 16:9 | Nagravision 3/Betacrypt | Teste
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#9A9A9A" style="border:1px solid #C0C0C0; text-align: center">6543&nbsp;</td>
+<td bgcolor="#9A9A9A" style="border:1px solid #C0C0C0; text-align: left">6541</td>
+<td bgcolor="#9A9A9A" style="border:1px solid #C0C0C0; text-align: center">6543&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionado codificação<br><span style="color: #0000FF;">José Gomes</span><br><b style="font-size: 11px">01/07/2022 - 20h59</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/futura.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Futura HD" style="font-size: 13px; color: #00004c"><b>Futura HD</b></a>
+<br>H264 16:9 | Nagravision 3/Betacrypt | Educativo
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">6553&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">6551 MPEG EST POR<br>
+6552 MEPG EST ORI</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">6553&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou  frequência<br><span style="color: #0000FF;">Marcos Antônio</span><br><b style="font-size: 11px">15/07/2022 - 07h24</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://redeglobo.globo.com/rs/rbstvrs/" style="font-size: 13px"><img src="images/tv/rbs.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="http://redeglobo.globo.com/rs/rbstvrs/" target="_blank" title="RBS TV Porto Alegre HD" style="font-size: 13px; color: #00004c"><b>RBS TV Porto Alegre HD</b></a>
+<br>H264 16:9 | Nagravision 3/Verimatrix | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">6523&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">6521 AC3 EST POR<br>
+6522 AC3 EST ORI<br>
+5738 MPEG EST POR<br>
+456 MPEG EST POR<br>
+6528 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">6523&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionou Betacrypt<br><span style="color: #0000FF;">Denilson</span><br><b style="font-size: 11px">12/07/2022 - 07h21</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/rpc.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="RPC Curitiba HD" style="font-size: 13px; color: #00004c"><b>RPC Curitiba HD</b></a>
+<br>H264 16:9 | Nagravision 3/Betacrypt | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">6513&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">6511 MPEG EST POR<br>
+6512 AC3 EST ORI<br>
+6518 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">6513&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionou Betacrypt<br><span style="color: #0000FF;">Denilson</span><br><b style="font-size: 11px">12/07/2022 - 07h21</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/anhanguera_1.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="TV Anhanguera Goiânia HD" style="font-size: 13px; color: #00004c"><b>TV Anhanguera Goiânia HD</b></a>
+<br>H264 16:9 | Nagravision 3/Betacrypt | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">6503&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">6501 MPEG EST POR<br>
+6502 AC3 EST ORI<br>
+6508 MPEG EST POR</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">6503&nbsp;</td>
+</tr>
+<tr>
+<td style="border:1px solid #C0C0C0; text-align: center"><span style="color: #001d7e"><b>StarOne C2</b><br></span><b>12560 V</b> <br>29900 | 3/5<br><img src="images/legenda/forte.jpg" border="0" alt="Sinal Forte" title="Sinal Forte" style="vertical-align: middle"><br><span style="font-size: 9px"><a href="mapas.php?satelite=SC2" onclick="return hs.htmlExpand(this, { objectType: 'iframe', width: '820', height: '480', wrapperClassName: 'no-footer', align: 'center' } )" target="_blank">Brasil</a></span></td>
+<td style="border:1px solid #C0C0C0; text-align: center; vertical-align: middle;"><a href="http://www.clarotv.claro.com.br/" style="font-size: 13px"><img src="images/tv/claro.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left; ; vertical-align: middle;"><a href="http://www.clarotv.claro.com.br/" target="_blank" title="Mux Claro TV Brasil" style="font-size: 13px; color: #00004c"><b>Mux Claro TV Brasil</b></a>
+<br><span style="background-color: #FF860D; padding: 1px; color: #FFF">DVB-S2 8PSK</span> 
+
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center"></td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left"></td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionou Betacrypt<br><span style="color: #0000FF;">Nonattosats</span><br><b style="font-size: 11px">12/07/2022 - 09h52</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://redeglobo.globo.com/sp/eptv/" style="font-size: 13px"><img src="images/tv/eptv.jpg" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="http://redeglobo.globo.com/sp/eptv/" target="_blank" title="EPTV Campinas HD" style="font-size: 13px; color: #00004c"><b>EPTV Campinas HD</b></a>
+<br>H264 16:9 | Nagravision 3/Betacrypt | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">6913&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">6911 AC3 EST POR<br>
+6912 AC3 EST ORI</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">6913&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Adicionou Betacrypt<br><span style="color: #0000FF;">Nonattosats</span><br><b style="font-size: 11px">12/07/2022 - 09h52</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/amazonica.bmp" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Rede Amazônica Manaus HD" style="font-size: 13px; color: #00004c"><b>Rede Amazônica Manaus HD</b></a>
+<br>H264 16:9 | Nagravision 3/Betacrypt | Variedade
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #000; padding: 1px; color: #FFF">HD</span>
+</div>
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">6923&nbsp;</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left">6921 AC3 EST POR<br>
+6922 AC3 EST ORI</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">6923&nbsp;</td>
+</tr>
+<tr>
+<td style="border:1px solid #C0C0C0; text-align: center"><span style="color: #001d7e"><b>StarOne C2</b><br></span><b>12580 H</b> <br>29900 | 3/4<br><img src="images/legenda/forte.jpg" border="0" alt="Sinal Forte" title="Sinal Forte" style="vertical-align: middle"><br><span style="font-size: 9px"><a href="mapas.php?satelite=SC2" onclick="return hs.htmlExpand(this, { objectType: 'iframe', width: '820', height: '480', wrapperClassName: 'no-footer', align: 'center' } )" target="_blank">Brasil</a></span></td>
+<td style="border:1px solid #C0C0C0; text-align: center; vertical-align: middle;"><a href="http://www.portalbsd.com.br"><img src="images/tv/claro.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#FFBC79" style="height: 42px; border:1px solid #C0C0C0; text-align: left; ; vertical-align: middle;"><a href="" target="_blank" title="Mux Claro TV Brasil" style="font-size: 13px; color: #00004c"><b>Mux Claro TV Brasil</b></a>
+<br><span style="background-color: #ED145B; padding: 1px; color: #FFF">DVB-S QPSK</span> 
+
+</td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center"></td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: left"></td>
+<td bgcolor="#FFBC79" style="border:1px solid #C0C0C0; text-align: center">&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Alterou nome e logomarca<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">25/07/2023 - 18h47</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://conteudo.ebcservicos.com.br/streaming/nbr" style="font-size: 13px"><img src="images/tv/canalgov.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="http://conteudo.ebcservicos.com.br/streaming/nbr" target="_blank" title="Canal Gov" style="font-size: 13px; color: #00004c"><b>Canal Gov</b></a>
+<br>MPEG2 | Nagravision 3 | Governo
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">1903&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">1901 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">1903&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Está sem sinal<br><span style="color: #0000FF;"></span><br><b style="font-size: 11px">11/09/2023 - 15h10</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.portalbsd.com.br"><img src="images/tv/tv.gif" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#9A9A9A" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="" target="_blank" title="Teste 43" style="font-size: 13px; color: #00004c"><b>Teste 43</b></a>
+<br>MPEG2 | Nagravision | Teste
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#9A9A9A" style="border:1px solid #C0C0C0; text-align: center">1753&nbsp;</td>
+<td bgcolor="#9A9A9A" style="border:1px solid #C0C0C0; text-align: left">1751 MPEG EST POR</td>
+<td bgcolor="#9A9A9A" style="border:1px solid #C0C0C0; text-align: center">1753&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Está FTA<br><span style="color: #0000FF;">Wunsch, Edu Silva</span><br><b style="font-size: 11px">29/04/2022 - 06h49</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://tvbrasil.ebc.com.br/" style="font-size: 13px"><img src="images/tv/tv_brasil.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="http://tvbrasil.ebc.com.br/" target="_blank" title="TV Brasil" style="font-size: 13px; color: #00004c"><b>TV Brasil</b></a>
+<br>MPEG2 | Nagravision 3 | Governo
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">43&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">40 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">43&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Está FTA<br><span style="color: #0000FF;">Wunsch, Edu Silva</span><br><b style="font-size: 11px">29/04/2022 - 06h50</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www2.camara.leg.br/camaranoticias/tv/" style="font-size: 13px"><img src="images/tv/tv_camara_nac.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="http://www2.camara.leg.br/camaranoticias/tv/" target="_blank" title="TV Câmara" style="font-size: 13px; color: #00004c"><b>TV Câmara</b></a>
+<br>MPEG2 | Nagravision 3 | Governo
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">1783&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">1781 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">1783&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Está FTA<br><span style="color: #0000FF;">Wunsch, Edu Silva</span><br><b style="font-size: 11px">29/04/2022 - 06h47</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.tvjustica.jus.br/" style="font-size: 13px"><img src="images/tv/tv_justica.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="http://www.tvjustica.jus.br/" target="_blank" title="TV Justiça" style="font-size: 13px; color: #00004c"><b>TV Justiça</b></a>
+<br>MPEG2 | Nagravision 3 | Governo
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">34&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">33 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">34&nbsp;</td>
+</tr>
+<tr>
+<td style=" text-align: center; font-size: 12px; vertical-align: middle" bgcolor="#FFFFFF">Está FTA<br><span style="color: #0000FF;">Wunsch, Edu Silva</span><br><b style="font-size: 11px">29/04/2022 - 06h50</b></td>
+<td style="border:1px solid #C0C0C0; text-align: center"><a href="http://www.senado.gov.br/noticias/tv/" style="font-size: 13px"><img src="images/tv/tv_senado.png" border="0" style="width: 52px; height: 39px" class="img-logo-pgses"></a></td>
+<td bgcolor="#B9DAFF" style="height: 42px; border:1px solid #C0C0C0; text-align: left;"><a href="http://www.senado.gov.br/noticias/tv/" target="_blank" title="TV Senado" style="font-size: 13px; color: #00004c"><b>TV Senado</b></a>
+<br>MPEG2 | Nagravision 3 | Governo
+<br>
+<div style="float: right; min-height: 25px; margin-bottom: -9px">
+<span style="background-color: #9e9e9e; padding: 1px; color: #FFF">SD</span>
+</div>
+</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">38&nbsp;</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: left">32 MPEG EST POR</td>
+<td bgcolor="#B9DAFF" style="border:1px solid #C0C0C0; text-align: center">38&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+
+
+                             </div>
+
+                    </div>
+
+                            <div class="table-responsive">
+                                <table class="table table-bordered">
+                                    <tbody>
+							            <tr>
+								           <td style="width: 25%; color: #993366; font-size:12px; font-weight:bold;">MPEG1 - Compressão de Áudio</td>
+								           <td style="width: 35%; color: #006633; font-size:12px; font-weight:bold;">MPEG2, MPEG4 e H264 - Compressão de Vídeo</td>
+								           <td style="width: 20%; color: #882D00; font-size:12px; font-weight:bold;">HD - Alta Definição</td>
+								           <td style="width: 20%; color: #000000; font-size:12px; font-weight:bold;">SD - Definição Padrão</td>
+					                    </tr>
+							        </tbody>
+						        </table>
+                            </div>
+                 </div>
